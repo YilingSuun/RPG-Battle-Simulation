@@ -1,4 +1,6 @@
-# ignore all .o files
+# ignore all .o  .d files
 *.o
+*.d
 
 build/*.o
+build/*.d
